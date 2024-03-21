@@ -9,25 +9,25 @@ global.antitags = true;
 
 
 //auto functioner
-global.autoTyping = false;                //auto tying by default off.
+global.autoTyping = true;                //auto tying by default off.
 global.autoRecord = false;                //auto recording by default off.
-global.groupevent = false;                //This is the new variable for controlling group event handling.
-global.statusseen = false;                 //This is the new variable for controlling status seen.
+global.groupevent = false;               //This is the new variable for controlling group event handling.
+global.statusseen = true;                 //This is the new variable for controlling status seen.
 global.autoreadgc = false;
 
 
 //
-global.prefa = ["."];                                    //Default prefix here. you can change if you want.
+global.prefa = ["@"];                                    //Default prefix here. you can change if you want.
 
 
 //
-global.Owner = ["+94704274987", "+94704274987"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94704274987", "+94704274987"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94704274987"];
-global.OwnerName = "SACHITH";
-global.BotName = "SACHITH";
-global.packname = "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
-global.author = "SACHITH";                               //Do not change.
+global.Owner = ["+919874188403", "+917439382677"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+919874188403", "+917439282677"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+919874188403"];
+global.OwnerName = "𝐐𝐮𝐞𝐞𝐧-𝐏𝐢𝐮";
+global.BotName = "𝐏𝐈𝐔-𝐌𝐃";
+global.packname = "🦋 │𝐏𝐈𝐔-𝐌𝐃| 🦋";                             //Do not change.
+global.author = "𝐏𝐈𝐔";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
 
@@ -87,7 +87,7 @@ global.mess = {
   privateonly: 'This command is only made for *Private Chat*, Baka!',
   botonly: 'Only the *Bot itself* can use this command!',
   waiting: 'Just Wait...',
-  nolink: 'Please provide me *link*, Baka!',
+  nolink: 'Please provide me *link*,𝐁𝐑𝐎!',
   error: 'An error occurd!',
   banned: 'You are *Banned* fron using commands!',
   bangc: 'This Group is *Banned* from using Commands!',
